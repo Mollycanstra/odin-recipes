@@ -1,0 +1,10 @@
+#body {
+    background-color: snow;
+    opacity: 0.3;
+}
+#title {
+    color: tomato;
+    text-align: center;
+    font-family: cursive;
+    opacity: 5;
+}
